@@ -4,17 +4,6 @@
     /*animation: gradient-animation 18s ease infinite;*/
   }
   
-  @keyframes gradient-animation {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
   
   .icon-square {
     width: 3rem;
@@ -37,6 +26,10 @@
 #bg-dark{
   color: white;
   background-color: #303136;
+}
+
+.t-white{
+  background-color: rgba(255, 255, 255, 0.623);
 }
 
  
